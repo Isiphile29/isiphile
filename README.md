@@ -44,5 +44,4 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Project Lead – @yourusername
-Project Link: https://github.com/yourusername/ai-workplace-assistant
+Project Link:https://isiphile.lovable.app
